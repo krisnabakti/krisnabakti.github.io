@@ -1,0 +1,80 @@
+- selector: smartponics
+  captions: true
+  images:
+    - src: /assets/img/portfolio/smartponics/01.jpg
+      alt: BSP Farm
+    - src: /assets/img/portfolio/smartponics/melon.jpg
+      alt: Melon Harvest
+    - src: /assets/img/portfolio/smartponics/device.jpg
+      alt: Device Internals
+    - src: /assets/img/portfolio/smartponics/PCB.jpg
+      alt: Bare PCB
+    - src: /assets/img/portfolio/smartponics/prototype.jpg
+      alt: Early Prototype
+    - src: /assets/img/portfolio/smartponics/tempdata.png
+      alt: Temperature Data
+    - src: /assets/img/portfolio/smartponics/sheetsconfig.png
+      alt: Control Parameters Interface
+  settings:
+    height: "'auto'"
+    initialHeight: 
+    maxHeight: 
+    effect: "'slide'"
+    transitionDuration: 250
+    interval: 5000
+
+- selector: crane
+  captions: true
+  images:
+    - src: /assets/img/portfolio/crane/move2.gif
+      alt: Crane Operation
+    - src: /assets/img/portfolio/crane/thumbnail.png
+      alt: Crane Operation
+    - src: /assets/img/portfolio/crane/esp32.jpg
+      alt: ESP32 in a Protoboard
+  settings:
+    height: "'auto'"
+    initialHeight: 900
+    maxHeight: 900
+    effect: "'slide'"
+    transitionDuration: 250
+    interval: 5000
+
+- selector: boat
+  captions: true
+  images:
+    - src: /assets/img/portfolio/boat/altium.png
+      alt: Altium PCB Design
+    - src: /assets/img/portfolio/boat/thumbnail.jpg
+      alt: Autonomous Sailboat in Action
+    - src: /assets/img/portfolio/boat/pcb.jpg
+      alt: Fabricated PCB
+    - src: /assets/img/portfolio/boat/nucleo.jpg
+      alt: Attached to Nucleo Board
+  settings:
+    height: "'auto'"
+    initialHeight: 900
+    maxHeight: 900
+    effect: "'slide'"
+    transitionDuration: 250
+    interval: 5000
+    
+- selector: valve
+  captions: true
+  images:
+    - src: /assets/img/portfolio/valve/whole.jpg
+      alt: Controller and Actuator Unit
+    - src: /assets/img/portfolio/valve/assembly.jpg
+      alt: Actuator Assembly
+    - src: /assets/img/portfolio/valve/internal.jpg
+      alt: Controller Unit Internals
+    - src: /assets/img/portfolio/valve/interface.png
+      alt: User IoT Interface
+  settings:
+    height: "'auto'"
+    initialHeight: 500
+    maxHeight: 900
+    effect: "'slide'"
+    transitionDuration: 250
+    interval: 5000
+    
